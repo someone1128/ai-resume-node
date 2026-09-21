@@ -3,7 +3,7 @@
 更新时间：2026-09-22
 项目仓库：`https://github.com/someone1128/ai-resume-node`
 当前主分支：`main`
-当前提交：`074bf56 docs: add Chinese project overview`
+当前提交：`6a9bc3a docs: add project handoff and agent guidance`
 
 这份文档用于电脑维修、换机或长时间中断后恢复工作。恢复后先阅读本文件，再阅读根目录的 `AGENTS.md` 和 `CLAUDE.md`，最后根据剩余门禁继续开发。不要把本文件中的示例值当成真实凭证。
 
